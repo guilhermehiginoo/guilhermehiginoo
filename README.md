@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehiginoo/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/guidoofficial)
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehiginoo&show_icons=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 ### Tecnologias que uso no meu dia
