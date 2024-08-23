@@ -19,8 +19,3 @@ Seja bem-vindo ao meu perfil!
 <div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehiginoo&size_weight=0.5&count_weight=0.5)
-
-### Informações:
-    
-    Email: guilhermehiginoo@gmail.com
-    Faculdade: Tecnologia da Informação - Instituto Metrópole Digital
