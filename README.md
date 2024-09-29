@@ -3,11 +3,11 @@
 - I am currently pursuing a Bachelor's degree in Information Technology at UFRN.
 - I work at **[B2Bit](https://b2bit.company/)** with automation and artificial intelligence.
 - I am passionate about technology and always eager to learn new things.
+- Email: [guilhermehiginoo@gmail.com](mailto:guilhermehiginoo@gmail.com)
 
 Welcome to my profile!
 
 ## Connect with me 🌐
-- Email: [guilhermehiginoo@gmail.com](mailto:guilhermehiginoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-higino-3b99422b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehiginoo/)
 
