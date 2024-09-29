@@ -7,6 +7,7 @@
 Welcome to my profile!
 
 ## Connect with me 🌐
+- Email: [guilhermehiginoo@gmail.com](mailto:guilhermehiginoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-higino-3b99422b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermehiginoo/)
 
@@ -24,3 +25,4 @@ Welcome to my profile!
 
 ### 🤝 Let's Collaborate!
 I am always open to new ideas and collaborations. If you have an interesting project or want to share knowledge, feel free to reach out!
+
