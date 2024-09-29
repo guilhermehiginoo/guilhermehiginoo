@@ -22,11 +22,5 @@ Welcome to my profile!
 ## 📊 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehiginoo&size_weight=0.5&count_weight=0.5)
 
-## 🌟 Featured Projects
-- **[Project 1](#)**: Brief description of Project 1.
-- **[Project 2](#)**: Brief description of Project 2.
-- **[Project 3](#)**: Brief description of Project 3.
-
 ### 🤝 Let's Collaborate!
 I am always open to new ideas and collaborations. If you have an interesting project or want to share knowledge, feel free to reach out!
-
