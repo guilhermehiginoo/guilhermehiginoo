@@ -1,6 +1,10 @@
 # Hello, my name is Guilherme! 👋
 
-I am passionate about technology and always eager to learn new things. Currently, I work with automation at **[B2Bit](https://b2bit.company/)**, using the **n8n** tool to optimize processes and enhance efficiency. Welcome to my profile!
+- I am currently pursuing a Bachelor's degree in Information Technology at UFRN.
+- I work at **[B2Bit](https://b2bit.company/)** with automation and artificial intelligence.
+- I am passionate about technology and always eager to learn new things.
+
+Welcome to my profile!
 
 ## Connect with me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-higino-3b99422b3/)
@@ -25,3 +29,4 @@ I am passionate about technology and always eager to learn new things. Currently
 
 ### 🤝 Let's Collaborate!
 I am always open to new ideas and collaborations. If you have an interesting project or want to share knowledge, feel free to reach out!
+
