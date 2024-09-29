@@ -1,4 +1,4 @@
-# Hello, my name is Guilherme! 👋
+# Hello, I'm Guilherme! 👋
 
 - I am currently pursuing a Bachelor's degree in Information Technology at UFRN.
 - I work at **[B2Bit](https://b2bit.company/)** with automation and artificial intelligence.
