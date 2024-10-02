@@ -3,7 +3,7 @@
 - I am currently pursuing a Bachelor's degree in Information Technology at UFRN.
 - I work at **[b2bit](https://b2bit.company/)** with automation and artificial intelligence, using **[n8n](https://n8n.io/)** to streamline workflows and enhance productivity.
 - I am passionate about technology and always eager to learn new things.
-- Email: guilhermehiginoo@gmail.com
+- Email: guilhermesilva@b2bit.company
 
 Welcome to my profile!
 
