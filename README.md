@@ -4,7 +4,7 @@
 - 💼 **Current Role**: Working at [b2bit](https://b2bit.company/) with automation and artificial intelligence, using [n8n](https://n8n.io/) to optimize workflows.
 - 🌱 **Currently Learning**: PHP — exploring backend development and creating personal projects to practice.
 - 💡 **Interests**: Passionate about technology, always eager to learn new things.
-- 📫 **Contact**: [guilhermesilva@b2bit.company](mailto:guilhermesilva@b2bit.company)
+- 📫 **Contact**: [guilhermehiginoo@gmail.com](mailto:guilhermehiginoo@gmail.com)
 
 ---
 
