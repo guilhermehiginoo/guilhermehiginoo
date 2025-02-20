@@ -28,8 +28,9 @@
 ---
 
 ## 📊 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehiginoo&size_weight=0.5&count_weight=0.5)
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehiginoo&show_icons=true&theme=dracula)
+
+| <img src="https://github-readme-stats.vercel.app/api?username=guilhermehiginoo&show_icons=true&theme=dracula" height="180em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehiginoo&layout=compact&theme=dracula" height="180em" /> |
+| --- | --- |
 
 ---
 
