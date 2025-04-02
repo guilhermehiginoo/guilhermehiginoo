@@ -2,7 +2,7 @@
 
 - 🎓 **Education**: Bachelor's degree student in Information Technology at UFRN.
 - 💼 **Current Role**: Working at [b2bit](https://b2bit.company/) with automation and artificial intelligence, using [n8n](https://n8n.io/) to optimize workflows.
-- 🌱 **Currently Learning**: PHP — exploring backend development and creating personal projects to practice.
+- 🌱 **Currently Learning**: PHP/Laravel — exploring backend development and creating personal projects to practice.
 - 💡 **Interests**: Passionate about technology, always eager to learn new things.
 - 📫 **Contact**: [guilhermehiginoo@gmail.com](mailto:guilhermehiginoo@gmail.com)
 
