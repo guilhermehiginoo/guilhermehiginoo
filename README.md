@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF2D20&center=true&vCenter=true&width=550&lines=Laravel+Developer+%E2%9D%96+API+Craftsman;Clean+Code%2C+Clean+Architecture;Pushing+code%2C+pulling+espresso+%E2%98%95%EF%B8%8F;Open+for+cool+collabs!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF2D20&center=true&vCenter=true&width=550&lines=Laravel+Developer;Clean+Code%2C+Clean+Architecture;Pushing+code%2C+pulling+espresso+%E2%98%95%EF%B8%8F;Open+for+cool+collabs!" />
 </p>
 
 ---
