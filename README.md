@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  Hey, I’m Guilherme&nbsp;Hígino&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  Hey, I’m Guilherme&nbsp;Higino&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h1>
 
 <p align="center">
