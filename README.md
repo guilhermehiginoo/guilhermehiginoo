@@ -38,7 +38,7 @@
 ## 🛠️ Tech&nbsp;Stack
 <div align="center">
 
-| Core | Front-of-the-Front | Ops / Extras |
+| Core | Front-of-the-Front | Extras |
 | --- | --- | --- |
 | <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | <img alt="Livewire" src="https://img.shields.io/badge/Livewire-4E5EE4?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Blade" src="https://img.shields.io/badge/Blade-F7523C?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" /> | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="n8n" src="https://img.shields.io/badge/n8n-00B2B0?style=for-the-badge&logo=n8n&logoColor=white" /> |
 
