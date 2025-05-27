@@ -12,8 +12,7 @@
 ## ✨ About&nbsp;Me
 - 🎓 **Degree**: B.Sc. in Information Technology (in progress) — *UFRN*  
 - 💼 **Day Job**: Building automations for <a href="https://b2bit.company" target="_blank">b2bit</a>  
-- 🧰 **Current Toolkit**: Laravel Octane · Livewire · MySQL · Pest 
-- 🔭 **Learning**: Laravel 
+- 🔭 **Learning**: Laravel  · Livewire · Blade · MySQL · Pest 
 - 🚀 **Credo**: *“Ship it clean, test it twice, automate the rest.”*  
 - 📫 **Contact**: <a href="mailto:guilhermehiginoo@gmail.com">guilhermehiginoo@gmail.com</a>
 
