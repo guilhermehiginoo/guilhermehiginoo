@@ -60,7 +60,8 @@
 ## 🚀 Projects
 | Repo | Description | Tech |
 | :--- | :---------- | :--- |
-| **[hey-professor]([https://github.com/guilhermehiginoo/laravel-clean-skeleton](https://github.com/guilhermehiginoo/hey-professor))** | App to make questions for professors. | Laravel · Octane · Pest |
+| **[hey-professor](https://github.com/guilhermehiginoo/hey-professor)** | App to make questions for professors. | Laravel · Blade |
+| **[form-empresas](https://github.com/guilhermehiginoo/form-empresas)** | System to register new companies. | Laravel · Vue.js |
 
 *(More in the pins!)*
 
