@@ -64,10 +64,3 @@
 | **[form-empresas](https://github.com/guilhermehiginoo/form-empresas)** | System to register new companies. | Laravel · Vue.js |
 
 *(More in the pins!)*
-
----
-
-## 🤝 Let’s&nbsp;Collaborate
-Got a legacy PHP beast to tame? Need blazing-fast APIs in Laravel? Want to sprinkle automation magic on your stack? **Drop a line — let’s build something epic.**
-
-> “Code is like humor: if you have to explain it, it’s bad.” — *Cory House*
