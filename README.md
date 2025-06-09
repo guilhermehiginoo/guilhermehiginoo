@@ -13,7 +13,6 @@
 - 🎓 **Degree**: B.Sc. in Information Technology (in progress) — *UFRN*  
 - 💼 **Day Job**: Web development for <a href="https://telepesquisa.com/" target="_blank">Telepesquisa</a>  
 - 🔭 **Learning**: Laravel  · Livewire · Blade · MySQL · Pest 
-- 🚀 **Credo**: *“Ship it clean, test it twice, automate the rest.”*  
 - 📫 **Contact**: <a href="mailto:guilhermehiginoo@gmail.com">guilhermehiginoo@gmail.com</a>
 
 ---
