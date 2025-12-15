@@ -59,6 +59,8 @@
 ## 🚀 Projects
 | Repo | Description | Tech |
 | :--- | :---------- | :--- |
+| **[easy-ncm](https://github.com/guilhermehiginoo/easy-ncm)** | Intelligent NCM classification system using vectorization and LLM integration. | Laravel · React · AI · Vectorization |
+| **[semaforo-ia](https://github.com/guilhermehiginoo/semaforo-ia)** | Reinforcement learning project using Q-Learning to minimize traffic waiting time. | Python · Q-Learning · AI |
 | **[hey-professor](https://github.com/guilhermehiginoo/hey-professor)** | App to make questions for professors. | Laravel · Blade |
 | **[form-empresas](https://github.com/guilhermehiginoo/form-empresas)** | System to register new companies. | Laravel · Vue.js |
 
