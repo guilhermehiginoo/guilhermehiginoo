@@ -11,7 +11,7 @@
 
 ## ✨ About&nbsp;Me
 - 🎓 **Degree**: B.Sc. in Information Technology (in progress) — *UFRN*  
-- 💼 **Day Job**: Web development for <a href="https://telepesquisa.com/" target="_blank">Telepesquisa</a>  
+- 💼 **Day Job**: Fullstack Laravel Developer <a href="https://devsquad.com/" target="_blank">Devsquad</a>  
 - 🔭 **Learning**: Laravel  · Livewire · Blade · MySQL · Pest 
 - 📫 **Contact**: <a href="mailto:guilhermehiginoo@gmail.com">guilhermehiginoo@gmail.com</a>
 
