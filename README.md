@@ -25,10 +25,6 @@
   <a href="https://www.instagram.com/guilhermehiginoo/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/guilhermehiginoo?tab=followers" target="_blank">
-    <img alt="Followers" src="https://img.shields.io/github/followers/guilhermehiginoo?label=Follow&style=for-the-badge" />
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=guilhermehiginoo&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
