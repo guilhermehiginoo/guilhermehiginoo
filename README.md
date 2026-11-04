@@ -51,6 +51,5 @@ Full stack developer from Natal, Brazil. I turn manual work into systems that ru
 
 ## 📊 GitHub&nbsp;Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermehiginoo&show_icons=true&hide_border=true&count_private=true&title_color=0F2652&icon_color=2350D8&text_color=3C4A63&bg_color=FFFFFF" height="170" />
   <img src="https://streak-stats.demolab.com/?user=guilhermehiginoo&hide_border=true&ring=2350D8&fire=2350D8&currStreakNum=0F2652&currStreakLabel=2350D8&sideNums=0F2652&sideLabels=3C4A63&dates=6C778B&background=FFFFFF" height="170" />
 </p>
