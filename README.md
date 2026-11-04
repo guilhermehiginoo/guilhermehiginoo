@@ -4,60 +4,53 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF2D20&center=true&vCenter=true&width=550&lines=Laravel+Developer;Clean+Code%2C+Clean+Architecture;Pushing+code%2C+pulling+espresso+%E2%98%95%EF%B8%8F;Open+for+cool+collabs!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=2350D8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Learning+AI+Engineering;Laravel+%C2%B7+n8n+%C2%B7+LLMs+%C2%B7+RAG;Pushing+code%2C+pulling+espresso+%E2%98%95%EF%B8%8F" />
+</p>
+
+<p align="center">
+  <a href="https://guilhermehiginoo.github.io"><img alt="Website" src="https://img.shields.io/badge/guilhermehiginoo.github.io-0F2652?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guilhermehiginoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/guilhermehiginoo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:guilhermehiginoo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ✨ About&nbsp;Me
-- 🎓 **Degree**: B.Sc. in Information Technology (in progress) — *UFRN*  
-- 💼 **Day Job**: Fullstack Laravel Developer <a href="https://devsquad.com/" target="_blank">DevSquad</a>  
-- 🔭 **Learning**: Laravel  · Livewire · Blade · MySQL · Pest 
-- 📫 **Contact**: <a href="mailto:guilhermehiginoo@gmail.com">guilhermehiginoo@gmail.com</a>
+Full stack developer from Natal, Brazil. I turn manual work into systems that run on their own, with Laravel, n8n and LLMs. I’ve always loved AI, and now I’m learning the engineering behind it: training, evaluating and shipping models.
 
----
-
-## 🌐 Find&nbsp;Me&nbsp;Online
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilhermehiginoo/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/guilhermehiginoo/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+- 💼 **Day job**: Full Stack Developer at <a href="https://devsquad.com/">DevSquad</a> (Laravel, US clients)
+- 🚀 **Building**: CTO at Jupit, an early-stage business pre-incubated at Metrópole Parque (UFRN)
+- 🎓 **Studying**: B.Sc. in Information Technology at UFRN
+- 🔭 **Learning**: AI engineering · Python · model evaluation
 
 ---
 
 ## 🛠️ Tech&nbsp;Stack
 <div align="center">
 
-| Core | Front-of-the-Front | Extras |
+| AI & Automation | Back-end | Front-end |
 | --- | --- | --- |
-| <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> | <img alt="Livewire" src="https://img.shields.io/badge/Livewire-4E5EE4?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Blade" src="https://img.shields.io/badge/Blade-F7523C?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" /> | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="n8n" src="https://img.shields.io/badge/n8n-00B2B0?style=for-the-badge&logo=n8n&logoColor=white" /> |
+| <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" /> | <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img alt="Livewire" src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
 
 </div>
-
----
-
-## 📊 GitHub&nbsp;Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermehiginoo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=guilhermehiginoo&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehiginoo&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=400" />
-</p>
 
 ---
 
 ## 🚀 Projects
 | Repo | Description | Tech |
 | :--- | :---------- | :--- |
-| **[easy-ncm](https://github.com/guilhermehiginoo/easy-ncm)** | Intelligent NCM classification system using vectorization and LLM integration. | Laravel · React · AI · Vectorization |
-| **[semaforo-ia](https://github.com/guilhermehiginoo/semaforo-ia)** | Reinforcement learning project using Q-Learning to minimize traffic waiting time. | Python · Q-Learning · AI |
-| **[hey-professor](https://github.com/guilhermehiginoo/hey-professor)** | App to make questions for professors. | Laravel · Blade |
-| **[form-empresas](https://github.com/guilhermehiginoo/form-empresas)** | System to register new companies. | Laravel · Vue.js |
+| **[easy-ncm](https://github.com/guilhermehiginoo/easy-ncm)** | Classifies products into Brazilian NCM tax codes with RAG: embeddings, vector search and an LLM that picks the code. | Laravel · OpenAI · Qdrant |
+| **[semaforo-ia](https://github.com/guilhermehiginoo/semaforo-ia)** | Reinforcement learning (Q-Learning) agent that controls traffic lights to cut waiting time. | Python · Q-Learning · Streamlit |
+| **[RelembraMe](https://relembrame.com.br)** | SaaS that shows which past clients are due to come back and opens WhatsApp with the message ready. | Laravel · SaaS |
+| **[hey-professor](https://github.com/guilhermehiginoo/hey-professor)** | App for students to ask professors questions. | Laravel · Blade |
 
-*(More in the pins!)*
+*More on my [website](https://guilhermehiginoo.github.io) and in the pins.*
+
+---
+
+## 📊 GitHub&nbsp;Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermehiginoo&show_icons=true&hide_border=true&count_private=true&title_color=0F2652&icon_color=2350D8&text_color=3C4A63&bg_color=FFFFFF" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=guilhermehiginoo&hide_border=true&ring=2350D8&fire=2350D8&currStreakNum=0F2652&currStreakLabel=2350D8&sideNums=0F2652&sideLabels=3C4A63&dates=6C778B&background=FFFFFF" height="170" />
+</p>
