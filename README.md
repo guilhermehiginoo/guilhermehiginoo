@@ -37,15 +37,41 @@ Full stack developer from Natal, Brazil. I turn manual work into systems that ru
 
 ---
 
-## 🚀 Projects
-| Repo | Description | Tech |
-| :--- | :---------- | :--- |
-| **[easy-ncm](https://github.com/guilhermehiginoo/easy-ncm)** | Classifies products into Brazilian NCM tax codes with RAG: embeddings, vector search and an LLM that picks the code. | Laravel · OpenAI · Qdrant |
-| **[semaforo-ia](https://github.com/guilhermehiginoo/semaforo-ia)** | Reinforcement learning (Q-Learning) agent that controls traffic lights to cut waiting time. | Python · Q-Learning · Streamlit |
-| **[RelembraMe](https://relembrame.com.br)** | SaaS that shows which past clients are due to come back and opens WhatsApp with the message ready. | Laravel · SaaS |
-| **[hey-professor](https://github.com/guilhermehiginoo/hey-professor)** | App for students to ask professors questions. | Laravel · Blade |
+## 🚀 Featured Projects
 
-*More on my [website](https://guilhermehiginoo.github.io) and in the pins.*
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧾 <a href="https://github.com/guilhermehiginoo/easy-ncm">Easy NCM</a></h3>
+      <p>AI-powered product classification for Brazilian NCM tax codes. Uses RAG, embeddings and vector search to retrieve relevant classifications and assist with code selection.</p>
+      <sub>Laravel · OpenAI · Qdrant · RAG</sub>
+    </td>
+    <td width="50%">
+      <h3>🚦 <a href="https://github.com/guilhermehiginoo/semaforo-ia">Semáforo IA</a></h3>
+      <p>A reinforcement learning agent using Q-Learning to control traffic lights and optimize vehicle waiting times through simulation.</p>
+      <sub>Python · Q-Learning · Streamlit</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔄 <a href="https://relembrame.com.br">Relembra-me</a></h3>
+      <p>A SaaS platform that helps service businesses identify customers who are due for another appointment and simplifies customer reactivation through WhatsApp.</p>
+      <sub>Laravel · SaaS · Automation</sub>
+    </td>
+    <td width="50%">
+      <h3>🎓 <a href="https://github.com/guilhermehiginoo/hey-professor">Hey Professor</a></h3>
+      <p>A platform designed to connect students and professors, making it easier for students to ask questions and get academic support.</p>
+      <sub>Laravel · PHP · Blade</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/guilhermehiginoo?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-More_Projects-2350D8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
